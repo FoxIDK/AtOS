@@ -19,7 +19,8 @@ Current images taken from using AtOS through its development stages highlighting
 ## Usage
 
 - **Private access only**  
-  Right now AtOS can only be accessed via its domain and with a login - with early access available for purchase. This repository for now will serve as a placeholder for the future CLI release.
+  Right now AtOS can only be accessed via its domain and with a login. This repository for now will serve as a placeholder for the future CLI release.
+  I plan to release early-access to those who sponsor the projects I develop as part of the [ko-fi](https://ko-fi.com/foxidk) membership benefits!
 
 ## License
 
